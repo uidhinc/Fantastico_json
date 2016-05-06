@@ -1,0 +1,52 @@
+{
+   "wallpapers": [
+      {
+         "author": "UIDH",
+         "url": "https://raw.githubusercontent.com/uidhinc/Fantastico_json/master/wallpaper1.JPG",
+         "name": "Wallpaper 1",
+         "thumbnail": "https://raw.githubusercontent.com/uidhinc/Fantastico_json/master/thumb1.JPG"
+      },
+      {
+         "author": "UIDH",
+         "url": "https://raw.githubusercontent.com/uidhinc/Fantastico_json/master/wallpaper2.JPG",
+         "name": "Wallpaper 2",
+         "thumbnail": "https://raw.githubusercontent.com/uidhinc/Fantastico_json/master/thumb2.JPG"
+      },
+      {
+         "author": "UIDH",
+         "url": "https://raw.githubusercontent.com/uidhinc/Fantastico_json/master/wallpaper3.JPG",
+         "name":"Wallpaper 3",
+         "thumbnail": "https://raw.githubusercontent.com/uidhinc/Fantastico_json/master/thumb3.JPG"
+      },
+      {
+         "author": "UIDH",
+         "url": "https://raw.githubusercontent.com/uidhinc/Fantastico_json/master/wallpaper4.JPG",
+         "name": "Wallpaper 4",
+         "thumbnail": "https://raw.githubusercontent.com/uidhinc/Fantastico_json/master/thumb4.JPG"
+      },
+      {
+         "author": "UIDH",
+         "url": "https://raw.githubusercontent.com/uidhinc/Fantastico_json/master/wallpaper5.JPG",
+         "name": "Wallpaper 5",
+         "thumbnail": "https://raw.githubusercontent.com/uidhinc/Fantastico_json/master/thumb5.JPG"
+      },
+      {
+         "author":"UIDH",
+         "url":"https://raw.githubusercontent.com/uidhinc/Fantastico_json/master/wallpaper6.JPG",
+         "name":"Wallpaper 6",
+         "thumbnail":"https://raw.githubusercontent.com/uidhinc/Fantastico_json/master/thumb6.JPG"
+      },
+      {
+         "author": "UIDH",
+         "url": "https://raw.githubusercontent.com/uidhinc/Fantastico_json/master/wallpaper7.jpg",
+         "name": "Wallpaper 7",
+         "thumbnail": "https://raw.githubusercontent.com/uidhinc/Fantastico_json/master/thumb7.JPG"
+      },
+      {
+         "author": "UIDH",
+         "url": "https://raw.githubusercontent.com/uidhinc/Fantastico_json/master/wallpaper8.jpg",
+         "name": "Wallpaper 8",
+         "thumbnail": "https://raw.githubusercontent.com/uidhinc/Fantastico_json/master/thumb8.JPG"
+      }
+   ]
+}
